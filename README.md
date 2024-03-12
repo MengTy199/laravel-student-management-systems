@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://pbs.twimg.com/media/GIdfq9QWYAA22fb?format=png&name=large" width="350" title="hover text">
-</p>
+<div style= " width: 100% " >
+      <img src="https://pbs.twimg.com/media/GIdfq9QWYAA22fb?format=png&name=large"  title="hover text">
+</div>
+
 
 
 
