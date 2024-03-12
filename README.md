@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="D:\image\home.png" width="350" title="hover text">
-  <img src="D:\image\studentview.png" width="350" alt="accessibility text">
+  <img src="https://twitter.com/LMengty/status/1767486599523156381/photo/1" width="350" title="hover text">
 </p>
 
 
